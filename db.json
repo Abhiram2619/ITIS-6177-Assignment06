@@ -1,19 +1,29 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "itis6177",
+      "author": "abhiram",
+      "id": 2
+    },
+    {
+      "title": "ITIS6177",
+      "author": "Fabio",
+      "id": 3
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
